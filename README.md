@@ -1,4 +1,4 @@
-| Aluna - Bruna Anunciação de Santana | Matrícula - 221216927 |
+| Aluna - Bruna Anunciação de Santana |
 
 ---
 1. Resumo do projeto
